@@ -15,7 +15,7 @@ def generate_password(number):
     password =''.join(pwd)
     return password
 
-pwd = generate_password(10)
+pwd = generate_password(15)
 print(pwd)
     
     
